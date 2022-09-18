@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\user\Documents\IPT PRELIM\myprelimproj\resources\views/pages/home.blade.php ENDPATH**/ ?>
